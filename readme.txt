@@ -1,2 +1,2 @@
 Hi! Is this thing on?
-Guess it is...
+Cool!
